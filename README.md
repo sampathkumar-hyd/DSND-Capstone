@@ -24,15 +24,15 @@ The project consists of 3 JSON files. These are the data files. They are named a
   2. profile.json
   3. transcript.json
 
-The reviews.csv is too big to be uploaded into github and hence has been compressed into reviews.zip file and uploaded. You should unzip the file into reviews.csv before executing the notebook.
+The transcript.json is too big to be uploaded into github and hence has been compressed into transcript.json.zip file and uploaded. You should unzip the file into transcript.json before executing the notebook.
 
-The project also consists of a notebook to show case the actual analysis - DSND-Airbnb-Seattle.ipynb
+The project also consists of a notebook to show case the actual analysis - Starbucks_Capstone_notebook.ipynb
 
 ### Results
-The main findings of the code can be found at the post available [here](https://medium.com/@vskumar/how-do-you-price-your-property-in-airbnb-808b488c7230).
+The main findings of the code can be found at the post available [here](https://medium.com/@vskumar/will-they-or-wont-they-991b48957b2c).
 
 ### Licensing, Authors, and Acknowledgements<a name="licensing"></a>
-The data for this analysis was downloaded from [Kaggle](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
+The data for this analysis was downloaded from Udacity and Starbucks. Otherwise, feel free to use the code here as you would like!
 
 
 
